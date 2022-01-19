@@ -4,4 +4,5 @@
 
 ## Learn-365
 
-* [Page 1](learn-365/page-1.md)
+* [Learn-365](learn-365/learn-365/README.md)
+  * [Day-1](learn-365/learn-365/day-1.md)
